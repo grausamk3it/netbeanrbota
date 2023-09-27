@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    double x;
+    cin>>"Kto tvoi bog??">>x;
+    cout << "Petrovich tvoi bog" << endl;
     return 0;
 }
